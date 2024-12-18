@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "129185697931",
+    "firebase_url": "https://yehortitareno-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yehortitareno",
+    "storage_bucket": "yehortitareno.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129185697931:android:d4072c7fcd930c50f5848e",
+        "android_client_info": {
+          "package_name": "com.yehortitarenko.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOCMLaBqIPBICsGpgU4JOscttkYVbOl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
